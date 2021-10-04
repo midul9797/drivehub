@@ -1,0 +1,38 @@
+.banner 
+{
+    margin-top: -100px;
+    padding-top: 200px;
+    padding-left: 100px;
+    color: white;
+    height: 500px;
+    position: relative;
+    font-weight: 900;
+    z-index: 1;
+}
+.banner::before {
+    content: "";
+    background-image: url(./banner.jpg);
+    background-size: cover;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    filter: brightness(30%) ;
+}
+
+.banner h1{
+    font-size: 70px;
+    
+}
+.banner p 
+{
+    font-size: 20px;
+    color: #ffffff9e;
+}
+
+.button 
+{
+    z-index: 100000;
+}

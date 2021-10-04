@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Teen Classes",
+        "price": 1000,
+        "time": "5 Hours per Week",
+        "duration": "5 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://www.travelers.com/iw-images/resources/Individuals/Large/parentguideines_large.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adult Classes",
+        "price": 800,
+        "time": "4 Hours per Week",
+        "duration": "3 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://www.arroyodrivingschool.com/img/adult-driving.png"
+    },
+    {
+        "id": 3,
+        "name": "Senior Classes",
+        "price": 1500,
+        "time": "2 Hours per Week",
+        "duration": "8 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://www.gannett-cdn.com/-mm-/cf678d669308e2d4effa8d2a8c46279be092e549/c=0-64-1079-673/local/-/media/2016/12/15/TennGroup/Nashville/636174113722090342-1220-SBY-Stock.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+        "id": 4,
+        "name": "Defensive Driving",
+        "price": 500,
+        "time": "2 Hours per Week ",
+        "duration": "3 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://driverdynamics.com/wp-content/uploads/2019/09/Defensive-Ford.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Winter Driving",
+        "price": 1800,
+        "time": "5 Hours per Week",
+        "duration": "4 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/WknmM-ubEtKnaqkE99sVm9Y1b1M=/830x467/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/YEHOHT4N4JCIAWUBDYNQD47IB4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rainy Driving",
+        "price": 1200,
+        "time": "4 Hours per Week",
+        "duration": "2 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://cms.accuweather.com/wp-content/uploads/2019/01/gettyimages-902497530b-3.jpg?w=632"
+    },
+    {
+        "id": 7,
+        "name": "Desert Driving",
+        "price": 2000,
+        "time": "6 Hours per Week",
+        "duration": "5 Months Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://aviationghana.com/wp-content/uploads/2021/01/off-road-driving.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Stick Shift Lessons",
+        "price": 500,
+        "time": "2 Hours per Week",
+        "duration": "1 Month Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-660562891-1551197017.jpg?crop=1xw:0.9166666666666666xh;center,top&resize=980:*"
+    },
+    {
+        "id": 9,
+        "name": "Traffic Rules Lesson",
+        "price": 300,
+        "time": "1 Hour per Week",
+        "duration": "1 Month Course",
+        "support": "24/7 Support",
+        "repair": "Free Car Service & Repair",
+        "image": "https://cdn.cdnparenting.com/articles/2017/09/519314674-H.webp"
+    }
+]

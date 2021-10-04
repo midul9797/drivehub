@@ -1,0 +1,24 @@
+.article
+{
+    margin-top: 100px;
+}
+.article img
+{
+    width: 500px;
+    height: 500px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.article h1 
+{
+    font-size: 50px;
+    padding-left: 20px;
+    border-left: 7px solid rgb(211, 47, 47);
+}
+.article p 
+{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 30px;
+    line-height: 150%;
+}
